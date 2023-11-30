@@ -57,3 +57,5 @@ Check the console for error messages and consult the Furhat SDK documentation.
 
 __Feedback and Support__
 If you have any questions, suggestions, or encounter issues, please reach out to ysak.filip.001@student.uni.lu
+
+Download Link for skillwizard file:https://www.mediafire.com/file/5tf19etha9bq1wz/SkillWizard-0.143.1.skill/file
