@@ -2,8 +2,6 @@ __Introduction__
 
 Welcome to SkillWizard! SkillWizard is a powerful tool that enhances your project using the Furhat SDK. This documentation provides a step-by-step guide on installing the Furhat SDK and executing the SkillWizard program to our virtual furhat interface.
 
-
-
 __Installation__
 
 _Furhat SDK_
