@@ -55,3 +55,35 @@ Now that you have the Furhat SDK installed, proceed with SkillWizard installatio
 2. **Run the Command:**
    ```bash
    furhat -t SkillWizard-0.143.1.skill
+
+   ## Initialization
+
+- Wait for SkillWizard to initialize.
+
+## Access in Browser
+
+- Open a web browser and go to [http://localhost:8080](http://localhost:8080).
+
+## Console Commands
+
+While SkillWizard is running, interact with it using the console:
+
+- `help`: Display a list of available commands.
+- `start`: Start the SkillWizard program.
+- `stop`: Stop the SkillWizard program.
+- `exit`: Exit the console and stop SkillWizard.
+
+## Troubleshooting
+
+If you encounter issues during installation or execution:
+
+- Ensure the correct Furhat SDK version is installed.
+- Double-check SkillWizard-0.143.1.skill for errors or corruption.
+- Check the console for error messages and consult the [Furhat SDK documentation](https://docs.furhat.io/furhatos).
+
+## Feedback and Support
+
+For questions, suggestions, or issues, contact [ysak.filip.001@student.uni.lu](mailto:ysak.filip.001@student.uni.lu).
+
+**Download Link for SkillWizard file:** [SkillWizard-0.143.1.skill](https://www.mediafire.com/file/5tf19etha9bq1wz/SkillWizard-0.143.1.skill/file)
+
