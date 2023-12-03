@@ -1,61 +1,57 @@
-__Introduction__
+# SkillWizard Documentation
 
-Welcome to SkillWizard! SkillWizard is a powerful tool that enhances your project using the Furhat SDK. This documentation provides a step-by-step guide on installing the Furhat SDK and executing the SkillWizard program to our virtual furhat interface.
+## Introduction
 
-__Installation__
+Welcome to SkillWizard! SkillWizard is a powerful tool designed to augment your project using the Furhat SDK. This documentation provides a comprehensive guide on installing the Furhat SDK and executing the SkillWizard program to interact with our virtual Furhat interface.
 
-_Furhat SDK_
-Before using SkillWizard, make sure you have the Furhat SDK installed on your system. Follow these steps:
+## Installation
 
-Visit the Furhat SDK Download Page to download the latest version.
-Follow the installation instructions provided for your operating system.
+### Furhat SDK
 
-_SkillWizard_
-Now that you have the Furhat SDK installed, proceed to install SkillWizard:
+Before diving into SkillWizard, ensure the Furhat SDK is correctly set up on your system. Follow these steps:
 
-Download the SkillWizard-0.143.1.skill file.
-Place the SkillWizard-0.143.1.skill file in the appropriate directory.
+1. **Download Furhat SDK:**
+   - Visit the [Furhat SDK Download Page](https://www.furhat.io/furhat-sdk/) to download the latest version.
 
+2. **Installation:**
+   - Follow the installation instructions provided for your operating system.
 
-__Executing SkillWizard__
+### SkillWizard
 
-__(SDK access)__
-1.Open FurhatSDK
-2.Navigate to "Start Skill" button.
-3.Choose the file SkillWizard-0.143.1.skill.
-4.After the file will execute, navigate to "Open Web interface button".
-5.You will clearly see that you sucessfully opened the interface.
-6.Put the password : "admin" to access it fully (while using localhost).
+Now that you have the Furhat SDK installed, proceed with SkillWizard installation:
 
-__(command prompt access)__
-_Opening the Web Interface_
-To execute SkillWizard and open the web interface, follow these steps:
+1. **Download SkillWizard:**
+   - [SkillWizard-0.143.1.skill](https://www.mediafire.com/file/5tf19etha9bq1wz/SkillWizard-0.143.1.skill/file)
 
-1.Open a terminal or command prompt.
-2.Navigate to the directory containing SkillWizard-0.143.1.skill.
-3.Run the following command:
+2. **Placement:**
+   - Place the SkillWizard-0.143.1.skill file in the appropriate directory.
 
-_furhat -t SkillWizard-0.143.1.skill_
+## Executing SkillWizard
 
+### SDK Access
 
-Wait for the SkillWizard to initialize. Once initialized, open a web browser and go to http://localhost:8080.
+1. **Open FurhatSDK:**
+   - Launch FurhatSDK.
 
-__Console Commands__
+2. **Start Skill:**
+   - Navigate to the "Start Skill" button.
 
-While SkillWizard is running, you can interact with it using the console. Here are some useful commands:
-help: Display a list of available commands.
-start: Start the SkillWizard program.
-stop: Stop the SkillWizard program.
-exit: Exit the console and stop SkillWizard.
+3. **Select SkillWizard:**
+   - Choose the file SkillWizard-0.143.1.skill.
 
-__Troubleshooting__
-If you encounter any issues during installation or execution, refer to the following troubleshooting tips:
+4. **Open Web Interface:**
+   - After execution, navigate to the "Open Web interface" button.
 
-Ensure that you have the correct version of the Furhat SDK installed.
-Double-check the SkillWizard-0.143.1.skill file for any errors or corruption.
-Check the console for error messages and consult the Furhat SDK documentation.
+5. **Access Interface:**
+   - To fully access it, use the password: "admin" (when using localhost).
 
-__Feedback and Support__
-If you have any questions, suggestions, or encounter issues, please reach out to ysak.filip.001@student.uni.lu
+### Command Prompt Access
 
-Download Link for skillwizard file:https://www.mediafire.com/file/5tf19etha9bq1wz/SkillWizard-0.143.1.skill/file
+#### Opening the Web Interface
+
+1. **Open Terminal or Command Prompt:**
+   - Navigate to the directory containing SkillWizard-0.143.1.skill.
+
+2. **Run the Command:**
+   ```bash
+   furhat -t SkillWizard-0.143.1.skill
