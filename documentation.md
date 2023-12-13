@@ -85,5 +85,5 @@ If you encounter issues during installation or execution:
 
 For questions, suggestions, or issues, contact [ysak.filip.001@student.uni.lu](mailto:ysak.filip.001@student.uni.lu).
 
-**Download Link for SkillWizard file:** [SkillWizard-0.143.1.skill](https://www.mediafire.com/file/5tf19etha9bq1wz/SkillWizard-0.143.1.skill/file)
+
 
