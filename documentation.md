@@ -11,7 +11,7 @@ Welcome to SkillWizard! SkillWizard is a powerful tool designed to augment your 
 Before diving into SkillWizard, ensure the Furhat SDK is correctly set up on your system. Follow these steps:
 
 1. **Download Furhat SDK:**
-   - Visit the [Furhat SDK Download Page]((https://docs.furhat.io/launcher/)) to download the latest version.
+   - Visit the [Furhat SDK Download Page](https://docs.furhat.io/launcher/) to download the latest version.
 
 2. **Installation:**
    - Follow the installation instructions provided for your operating system.
