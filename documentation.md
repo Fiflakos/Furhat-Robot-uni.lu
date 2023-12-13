@@ -83,7 +83,7 @@ If you encounter issues during installation or execution:
 
 ## Feedback and Support
 
-For questions, suggestions, or issues, contact [ysak.filip.001@student.uni.lu](mailto:ysak.filip.001@student.uni.lu), [Parsa.vares.001@student.uni.lu](parsa.vares.001@student.uni.lu)
+For questions, suggestions, or issues, contact: [ysak.filip.001@student.uni.lu](mailto:ysak.filip.001@student.uni.lu), [Parsa.vares.001@student.uni.lu](parsa.vares.001@student.uni.lu)
 
 
 
