@@ -22,6 +22,7 @@ Now that you have the Furhat SDK installed, proceed with SkillWizard installatio
 
 1. **Download SkillWizard:**
    - [SkillWizard-0.143.1.skill](https://www.mediafire.com/file/5tf19etha9bq1wz/SkillWizard-0.143.1.skill/file)
+   - [Skill by University of Luxembourg](https://drive.google.com/file/d/1-0h_63lMcGWf8fUGqtKRBN2hUDJYCjV6/view?usp=sharing)
 
 2. **Placement:**
    - Place the SkillWizard-0.143.1.skill file in the appropriate directory.
