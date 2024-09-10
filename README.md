@@ -1,5 +1,5 @@
 #Hello
-![Watch the video](Demo_3.0.1.mp4)
+
 <div align="center">
   <a href="Demo_3.0.1.mp4">
     <img src="path/to/thumbnail.png" alt="Watch the video" width="800"/>
