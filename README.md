@@ -81,7 +81,64 @@ If you encounter issues during installation or execution:
 - Double-check SkillWizard-0.143.1.skill for errors or corruption.
 - Check the console for error messages and consult the [Furhat SDK documentation](https://docs.furhat.io/furhatos).
 
-## Feedback and Support
+# Connecting to the Furhat Robot-Phisycal
+
+After you have the SkillWizard program running on your system and the Furhat SDK installed, the next step is to connect your Furhat robot. Follow this manual to connect and upload the latest skill file directly to the robot.
+
+## Step 1: Powering On and Accessing the Hotspot
+
+Once your Furhat robot is powered on:
+
+1. **Open the Hotspot**:
+    - Press the **Hotspot button** on the robot to enable its WiFi hotspot.
+
+2. **Connect to the Robot's WiFi**:
+    - On your computer or mobile device, search for the robot’s WiFi network. The network name should be displayed on the robot's screen.
+    - Connect to the robot's WiFi.
+
+## Step 2: Accessing the Robot via Web Interface
+
+1. **Open Your Web Browser**:
+    - Once connected to the robot's WiFi, open any web browser.
+
+2. **Enter the IP Address**:
+    - Type the IP address displayed on the robot’s screen into your browser’s search bar (e.g., `http://192.168.x.x`).
+
+3. **Enter Password**:
+    - On the login page, enter the password: `"admin"` (for localhost or default access).
+
+## Step 3: Uploading the Skill File
+
+1. **Navigate to the Skills Section**:
+    - On the left sidebar of the web interface, click on the **Skills** section.
+
+2. **Upload the Skill File**:
+    - In the Skills section, click on the option to upload a new skill.
+    - Select the latest `.skill` file you have (e.g., `SkillWizard-0.143.1.skill`) from your local directory.
+
+3. **Execute the Skill**:
+    - Once uploaded, you can start the skill directly from the web interface.
+
+## Optional Experience: Using LAN Cable for Easier WiFi Setup
+
+**My Experience**: I recommend first connecting the Furhat robot to the internet using a LAN cable. This way, you can configure the robot’s WiFi settings from the dashboard without the potential issues that can occur when entering symbols in WiFi passwords on the robot. 
+
+## Step-by-Step for LAN Connection:
+
+1. **Connect LAN Cable**:
+    - Plug a LAN cable directly into the robot and ensure it is connected to the internet.
+
+2. **Set Up Hotspot**:
+    - Now, open the hotspot of the robot as described earlier.
+
+3. **Configure WiFi from Dashboard**:
+    - In the dashboard's network settings, you can connect the robot to your desired WiFi network.
+    - Make sure to type in the correct WiFi password and verify all symbols, as WiFi connection on the robot can sometimes be finicky with special characters.
+
+By following this process, you should have a smooth experience connecting the robot to your network and uploading your latest skill file for testing.
+
+
+# Feedback and Support
 
 For questions, suggestions, or issues, contact: [ysak.filip.001@student.uni.lu](mailto:ysak.filip.001@student.uni.lu), [Parsa.vares.001@student.uni.lu](parsa.vares.001@student.uni.lu)
 
