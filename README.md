@@ -83,17 +83,16 @@ If you encounter issues during installation or execution:
 
 # Connecting to the Furhat Robot-Phisycal
 
-After you have the SkillWizard program running on your system and the Furhat SDK installed, the next step is to connect your Furhat robot. Follow this manual to connect and upload the latest skill file directly to the robot.
+After continuing the Quickstart guide:
 
 ## Step 1: Powering On and Accessing the Hotspot
 
-Once your Furhat robot is powered on:
 
 1. **Open the Hotspot**:
     - Press the **Hotspot button** on the robot to enable its WiFi hotspot.
 
 2. **Connect to the Robot's WiFi**:
-    - On your computer or mobile device, search for the robot’s WiFi network. The network name should be displayed on the robot's screen.
+    - On your computer, search for the robot’s WiFi network. The network name should be displayed on the robot's screen.
     - Connect to the robot's WiFi.
 
 ## Step 2: Accessing the Robot via Web Interface
@@ -102,7 +101,7 @@ Once your Furhat robot is powered on:
     - Once connected to the robot's WiFi, open any web browser.
 
 2. **Enter the IP Address**:
-    - Type the IP address displayed on the robot’s screen into your browser’s search bar (e.g., `http://192.168.x.x`).
+    - Type the IP address displayed on the robot’s screen into your browser’s search bar (e.g., `192.168.x.x`).
 
 3. **Enter Password**:
     - On the login page, enter the password: `"admin"` (for localhost or default access).
@@ -113,9 +112,9 @@ Once your Furhat robot is powered on:
     - On the left sidebar of the web interface, click on the **Skills** section.
 
 2. **Upload the Skill File**:
-    - In the Skills section, click on the option to upload a new skill.
-    - Select the latest `.skill` file you have (e.g., `SkillWizard-0.143.1.skill`) from your local directory.
-
+    - In the Skills section, you can easily upload a new skill.
+    - Select the latest `.skill` file you have (e.g., `Parsa_V3.0.skill`) from your local directory.
+    - You can not run the skill form IDE so convert your code to .skill.
 3. **Execute the Skill**:
     - Once uploaded, you can start the skill directly from the web interface.
 
