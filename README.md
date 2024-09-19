@@ -5,7 +5,6 @@
     <img src="path/to/thumbnail.png" alt="Watch the video" width="800"/>
   </a>
 </div>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7242580219625095169?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 # SkillWizard Documentation
 
